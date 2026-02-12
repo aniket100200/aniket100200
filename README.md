@@ -11,7 +11,7 @@ Passionate Java Developer with 2+ years of experience building scalable backend 
 
 - 💼 Java Developer with industry experience
 - ⚙️ Backend Specialist – Spring Boot, REST APIs, JWT Security
-- 🧠 Strong in Data Structures & Algorithms (500+ problems solved)
+- 🧠 Strong in Data Structures & Algorithms (700+ problems solved)
 - 📊 Experienced with agGrid, scalable APIs & database optimization
 - 🌍 Open to Remote Opportunities & Relocation
 - ⚡ Immediate Joiner
@@ -99,7 +99,7 @@ Passionate Java Developer with 2+ years of experience building scalable backend 
 
 ## 🧠 Achievements
 
-- ✅ Solved 500+ DSA problems
+- ✅ Solved 700+ DSA problems
 - 🎓 Advanced Spring Boot Training
 - 🏆 Java & SQL HackerRank Certifications
 
